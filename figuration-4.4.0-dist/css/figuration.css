@@ -6,7 +6,7 @@
  * Licensed under MIT (https://github.com/cast-org/figuration/blob/master/LICENSE)
  */
 :root {
-  --color-primary: #006881; /* vikas var(--color-primary); /* vikas #0055e9; */ */
+  --color-primary: #006881; /* vikas #0055e9; */
   --color-secondary: #5e7182;
   --color-info: #1680a4;
   --color-success: #0e8a16;
@@ -188,7 +188,7 @@ sup {
 }
 
 a {
-  color: var(--color-primary); /* vikas var(--color-primary); /* vikas #0055e9; */ */
+  color: var(--color-primary); /* vikas #0055e9; */
   text-decoration: underline;
 }
 
@@ -1077,8 +1077,8 @@ textarea.form-control:not([rows="1"]) {
 }
 
 .form-checkradio .form-check-input:checked ~ .form-check-label::before {
-  background-color: var(--color-primary); /* vikas var(--color-primary); /* vikas #0055e9; */ */
-  border-color: var(--color-primary); /* vikas var(--color-primary); /* vikas #0055e9; */ */
+  background-color: var(--color-primary); /* vikas #0055e9; */
+  border-color: var(--color-primary); /* vikas #0055e9; */
 }
 
 .form-checkradio .form-check-input[type="checkbox"]:checked ~ .form-check-label::before {
@@ -1090,7 +1090,7 @@ textarea.form-control:not([rows="1"]) {
 }
 
 .form-checkradio .form-check-input[type="checkbox"]:indeterminate ~ .form-check-label::before {
-  background-color: var(--color-primary); /* vikas var(--color-primary); /* vikas #0055e9; */ */
+  background-color: var(--color-primary); /* vikas #0055e9; */
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 4'%3e%3cpath stroke='%23fff' d='M0 2h4'/%3e%3c/svg%3e");
   border-color: var(--color-primary); /* vikas #0055e9; */
 }
