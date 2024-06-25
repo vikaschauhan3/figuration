@@ -6,7 +6,7 @@
  * Licensed under MIT (https://github.com/cast-org/figuration/blob/master/LICENSE)
  */
 :root {
-  --color-primary: #0055e9;
+  --color-primary: #006881; /* original color #0055e9; */
   --color-secondary: #5e7182;
   --color-info: #1680a4;
   --color-success: #0e8a16;
